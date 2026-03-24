@@ -19,4 +19,4 @@
 - Skate with friends or at a local skatepark to get feedback and encouragement.
 - Keep a simple log of skills you are learning to track your progress.
 
-[Back to Home](index.md) · [Health Benefits](health.md) · [Works Cited](works-cited.md)
+[Back to Home](README.md) · [Health Benefits](health.md) 
